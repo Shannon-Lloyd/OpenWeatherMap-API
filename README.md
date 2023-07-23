@@ -1,6 +1,6 @@
 # python-api-challenge
 Data Analysis Bootcamp API Challenge
-# Matplotlib Challenge 
+# Python API Challenge 
 Assignment for UT Data Analysis and Visualization Bootcamp to practice using APIs, JSON and the geoViews Python library in Jupyter Lab to collect data and present it in an visually effective manner to understand the data and communicate in a way that is engaging.
 
 ## Table of Contents
