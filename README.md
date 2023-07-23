@@ -58,6 +58,3 @@ https://openweathermap.org/current was necessary to complete this assignment.
 https://hvplot.holoviz.org/source was difficult but necessary.
 
 In class activities was the code that I used the most.
-
-# matplotlib-challenge
-Data Analysis Bootcamp matplotlib challenge
